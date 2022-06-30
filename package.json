@@ -1,0 +1,62 @@
+{
+  "name": "material-table-api-crud",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.7.0",
+    "@emotion/styled": "^11.6.0",
+    "@material-table/core": "^4.3.18",
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.54",
+    "@mui/lab": "^5.0.0-alpha.57",
+    "@mui/material": "^5.2.1",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.19.2",
+    "browserlist": "^1.0.1",
+    "chokidar": "^3.5.2",
+    "cors": "^2.8.5",
+    "json-loader": "^0.5.7",
+    "material-table": "^1.69.3",
+    "react": "^16.13.1",
+    "react-avatar": "^3.9.6",
+    "react-dj-table": "^1.1.18",
+    "react-dom": "^16.13.1",
+    "react-html-parser": "^2.0.2",
+    "react-json-table": "^0.1.1",
+    "react-json-viewer": "^3.0.1",
+    "react-promise": "^3.0.2",
+    "react-scripts": "^3.4.1",
+    "yarn": "^1.22.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "html-react-parser": "^1.4.5",
+    "http-proxy-middleware": "^2.0.1",
+    "react-json-to-table": "^0.1.7",
+    "react-table-vertical-heading": "^0.1.4",
+    "ts-react-json-table": "^0.1.2"
+  }
+}
